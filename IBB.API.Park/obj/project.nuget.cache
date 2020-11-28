@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZK4u3N+QnjS04UWQzXYVHY5Otl9+zBjNB8O9CqdRNcjPhDx9Ief7pXqBTweROtfonr2i0NJnXohKRgXOXH1Xag==",
+  "dgSpecHash": "3KI7libUEUzKKwC7SZjDvs2wGzrOoVdbNkFP3O0JC8pvuNaY1qoqdr6cAea0bzWKxgxqiYjwMcKrWALtwnimsA==",
   "success": true,
-  "projectFilePath": "C:\\PROJECTS\\CUSTOM\\IBB.API\\IBB.API.Park\\IBB.API.Park.csproj",
+  "projectFilePath": "C:\\PROJECTS\\CUSTOM\\IBB.API\\ibb.api.park\\IBB.API.Park.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdullah Kahriman\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

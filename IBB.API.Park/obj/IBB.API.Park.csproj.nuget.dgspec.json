@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PROJECTS\\CUSTOM\\IBB.API\\IBB.API.Park\\IBB.API.Park.csproj": {}
+    "C:\\PROJECTS\\CUSTOM\\IBB.API\\ibb.api.park\\IBB.API.Park.csproj": {}
   },
   "projects": {
-    "C:\\PROJECTS\\CUSTOM\\IBB.API\\IBB.API.Park\\IBB.API.Park.csproj": {
+    "C:\\PROJECTS\\CUSTOM\\IBB.API\\ibb.api.park\\IBB.API.Park.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROJECTS\\CUSTOM\\IBB.API\\IBB.API.Park\\IBB.API.Park.csproj",
+        "projectUniqueName": "C:\\PROJECTS\\CUSTOM\\IBB.API\\ibb.api.park\\IBB.API.Park.csproj",
         "projectName": "IBB.API.Park",
-        "projectPath": "C:\\PROJECTS\\CUSTOM\\IBB.API\\IBB.API.Park\\IBB.API.Park.csproj",
+        "projectPath": "C:\\PROJECTS\\CUSTOM\\IBB.API\\ibb.api.park\\IBB.API.Park.csproj",
         "packagesPath": "C:\\Users\\Abdullah Kahriman\\.nuget\\packages\\",
-        "outputPath": "C:\\PROJECTS\\CUSTOM\\IBB.API\\IBB.API.Park\\obj\\",
+        "outputPath": "C:\\PROJECTS\\CUSTOM\\IBB.API\\ibb.api.park\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
