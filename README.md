@@ -15,3 +15,6 @@ git clone https://github.com/abdullahkahriman/dotnet5-ibb-api.git .
 ```
 dotnet run --project ibb.api.park
 ```
+
+## Önizle
+<img src="https://raw.githubusercontent.com/abdullahkahriman/dotnet5-ibb-api/master/IBB.API.Park/wwwroot/img/ss.PNG" />
