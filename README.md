@@ -1,6 +1,6 @@
 # IBB API - Park
 
-Dotnet 5 kullanımını test etmek amacıyla, İstanbul avrupa ve anadolu yakasında bulunan parkların, Yandex API (harita) üzerinde gösterimi sağlandı.
+Dotnet 5 kullanımını test etmek amacıyla, İstanbul avrupa ve anadolu yakasında bulunan parkların (IBB API), Yandex API (harita) üzerinde gösterimi sağlandı.
 
 ## Kurulum
 
